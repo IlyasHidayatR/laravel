@@ -1,4 +1,5 @@
 @extends('layouts.main')
+@section('title','Analytics')
 @section('judul','Analytics')
 @section('content')
 <div class="flex flex-wrap">
